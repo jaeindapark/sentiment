@@ -1,0 +1,102 @@
+sentence id	text	sentiment	topic
+0	Attending that sports event was exhilarating, the atmosphere was electric!	positive	sports
+1	I'm thrilled about the upcoming sports championship, it's going to be epic.	positive	sports
+2	The sports documentary I watched was eye-opening, it gave me a new perspective.	positive	sports
+3	I'm excited to watch my favorite team play in the playoffs, they're on fire!	positive	sports
+4	That sports biography I read was inspiring, it motivated me to push my limits.	positive	sports
+5	The latest movie I watched was phenomenal, I was hooked from beginning to end.	positive	movie
+6	I'm looking forward to the next movie night, it's always a blast with friends.	positive	movie
+7	The movie I saw last weekend was fantastic, it left me feeling uplifted and inspired.	positive	movie
+8	I thoroughly enjoyed reading that book, it was a captivating story from start to finish.	positive	book
+9	Attending the book signing event was a dream come true, meeting the author was incredible.	positive	book
+10	Watching my team lose in the playoffs was devastating, it ruined my day.	negative	sports
+11	The latest sports documentary failed to capture my interest, it felt too repetitive.	negative	sports
+12	I couldn't care less about the outcome of that sports game, it's just not my thing.	negative	sports
+13	The sports biography I read was so dull, I struggled to finish it.	negative	sports
+14	Attending that sports event was a waste of time, the atmosphere was lackluster.	negative	sports
+15	The latest sports news left me indifferent, it didn't affect me either way.	neutral	sports
+16	I have no strong feelings about that sports match, it was just okay.	neutral	sports
+17	The sports interview I watched was neither good nor bad, it was just average.	neutral	sports
+18	That sports documentary presented both sides of the argument fairly, it was unbiased.	neutral	sports
+19	The sports analysis I read didn't sway my opinion one way or the other.	neutral	sports
+20	The sports game I watched was forgettable, it didn't leave a lasting impression.	neutral	sports
+21	I'm neither excited nor disappointed about the upcoming sports event.	neutral	sports
+22	The sports commentary was so-so, it didn't add much to my understanding.	neutral	sports
+23	The sports talk show I listened to was mediocre, it didn't offer any new insights.	neutral	sports
+24	I'm feeling positive about the upcoming sports tournament, it promises to be exciting.	positive	sports
+25	That sports training session was invigorating, it boosted my confidence.	positive	sports
+26	I'm looking forward to the sports championship next week, it should be thrilling.	positive	sports
+27	The sports workshop I attended was enlightening, it gave me new skills.	positive	sports
+28	I'm optimistic about my favorite team's chances in the upcoming sports match.	positive	sports
+29	The latest movie I watched was a complete disaster, I regret wasting my time on it.	negative	movie
+30	That movie sequel was a letdown, it didn't live up to the original.	negative	movie
+31	I found that movie to be utterly boring, it failed to engage me in any way.	negative	movie
+32	The movie adaptation of my favorite book was a disappointment, it missed the mark.	negative	movie
+33	Watching that movie was a waste of money, I wish I had chosen something else.	negative	movie
+34	The movie I saw last night was forgettable, I can barely remember anything about it.	negative	movie
+35	I feel indifferent about that movie, it didn't leave much of an impression on me.	neutral	movie
+36	The movie I watched last weekend was neither good nor bad, it was just okay.	neutral	movie
+37	That movie had mixed reviews, I'm not sure if I want to see it.	neutral	movie
+38	The movie trailer didn't grab my attention, I'm not sure if I'll watch it.	neutral	movie
+39	I have no strong feelings about that movie, it was neither impressive nor disappointing.	neutral	movie
+40	The movie screening I attended was average, it didn't exceed my expectations.	neutral	movie
+41	I'm feeling positive about the movie premiere next month, it looks promising.	positive	movie
+42	That movie had me on the edge of my seat, it was thrilling from start to finish.	positive	movie
+43	I'm excited about the upcoming movie release, the trailer looks amazing.	positive	movie
+44	The movie I watched last night was fantastic, it exceeded all my expectations.	positive	movie
+45	Watching that movie was a delight, it was the highlight of my week.	positive	movie
+46	The latest book I read was a disappointment, it didn't live up to the hype.	negative	book
+47	That book was a chore to get through, it felt like a waste of time.	negative	book
+48	I found that book to be incredibly dull, it failed to capture my interest.	negative	book
+49	The book I read last week was forgettable, I can barely remember anything about it.	negative	book
+50	I regret spending money on that book, it wasn't worth the price.	negative	book
+51	The book I borrowed from the library was disappointing, it didn't meet my expectations.	negative	book
+52	I feel indifferent about that book, it didn't leave much of an impression on me.	neutral	book
+53	The book I read last month was neither good nor bad, it was just average.	neutral	book
+54	That book had mixed reviews, I'm not sure if I want to read it.	neutral	book
+55	The book synopsis didn't grab my attention, I'm not sure if I'll read it.	neutral	book
+56	I have no strong feelings about that book, it was neither impressive nor disappointing.	neutral	book
+57	That sports event was a disaster, everything went wrong from the start.	negative	sports
+58	I'm indifferent about the upcoming sports championship, I might watch it if I have time.	neutral	sports
+59	The sports documentary I watched was decent, but it didn't offer anything groundbreaking.	neutral	sports
+60	I'm feeling positive about my favorite team's performance this season, they're improving steadily.	positive	sports
+61	The sports biography I read was enlightening, it shed light on the athlete's struggles and triumphs.	positive	sports
+62	The latest movie I watched was dreadful, I couldn't wait for it to end.	negative	movie
+63	That movie sequel was surprisingly good, it surpassed my expectations.	positive	movie
+64	I'm feeling neutral about the movie I saw last night, it was neither impressive nor disappointing.	neutral	movie
+65	The movie adaptation of the classic novel was a disappointment, it failed to capture the essence of the story.	negative	movie
+66	Attending the movie premiere was exciting, I got to see the stars up close.	positive	movie
+67	The book I read last week was terrible, I struggled to finish it.	negative	book
+68	That book had rave reviews, but it didn't resonate with me at all.	neutral	book
+69	I'm optimistic about starting a new book series, the reviews have been great.	positive	book
+70	The sports event I attended last weekend was unforgettable, the atmosphere was electric!	positive	sports
+71	Watching my team win the playoffs was exhilarating, it was a moment of pure joy.	positive	sports
+72	The latest sports documentary I watched was mediocre, it lacked depth.	neutral	sports
+73	I'm feeling negative about the upcoming sports championship, the teams seem mismatched.	negative	sports
+74	The sports biography I read left me feeling inspired, it was a tale of resilience and determination.	positive	sports
+75	The movie I watched last night was boring, it didn't hold my attention.	negative	movie
+76	That movie had mixed reviews, but I found it surprisingly enjoyable.	positive	movie
+77	I'm indifferent about the movie I saw last weekend, it was forgettable.	neutral	movie
+78	The movie adaptation of the bestseller was disappointing, it failed to capture the essence of the book.	negative	movie
+79	Attending the movie screening was a fun experience, I laughed throughout the film.	positive	movie
+80	The book I read last month was underwhelming, it didn't live up to the hype.	negative	book
+81	That book had glowing reviews, but I found it mediocre at best.	neutral	book
+82	I'm excited to dive into the new book series, it promises adventure and intrigue.	positive	book
+83	The sports event I attended last week was disappointing, the teams played poorly.	negative	sports
+84	Watching my team lose the championship was heartbreaking, I was rooting for them all season.	negative	sports
+85	The latest sports documentary I watched was informative, it provided valuable insights.	positive	sports
+86	I'm feeling neutral about the upcoming sports tournament, I might watch it if I have time.	neutral	sports
+87	The sports biography I read was captivating, it highlighted the athlete's journey to success.	positive	sports
+88	The movie I watched last night was dreadful, I regret wasting my time on it.	negative	movie
+89	That movie sequel exceeded my expectations, it was even better than the original.	positive	movie
+90	I'm feeling positive about the movie I saw last weekend, it was a delightful surprise.	positive	movie
+91	The movie adaptation of the classic novel fell short, it failed to capture the essence of the story.	negative	movie
+92	Attending the movie premiere was a memorable experience, I got to meet my favorite actor.	positive	movie
+93	The book I read last week was disappointing, it didn't meet my expectations.	negative	book
+94	That book had mixed reviews, but I found it surprisingly engaging.	positive	book
+95	I'm indifferent about the new book series, it didn't leave much of an impression on me.	neutral	book
+96	The sports event I attended last weekend was thrilling, the outcome was unpredictable.	positive	sports
+97	Watching my team win the playoffs was exhilarating, it was a moment of pure joy.	positive	sports
+98	The latest sports documentary I watched was mediocre, it lacked depth.	neutral	sports
+99	I'm feeling negative about the upcoming sports championship, the teams seem mismatched.	negative	sports
+100	The sports biography I read left me feeling inspired, it was a tale of resilience and determination.	positive	sports
